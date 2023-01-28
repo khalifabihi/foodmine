@@ -9,3 +9,5 @@ export class Food{
   origins!:string[];
   cookTime!:string;
 }
+
+// ! means required ? means optional
